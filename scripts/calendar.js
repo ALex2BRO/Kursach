@@ -11,7 +11,7 @@ export class Calendar {
     this.onDayClick = onDayClick;
 
     this.currentDate = new Date();
-    this.habitManager = new HabitManager()
+    this.habitManager = new HabitManager();
 
     this.init();
   }
