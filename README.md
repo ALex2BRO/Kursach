@@ -37,3 +37,7 @@
 - `calendar.js` — рендеринг календаря
 - `ui.js` — отображение списка, попапов
 - `main.js` — инициализация
+
+## Команды для клонирования
+
+- git clone git@github.com:ALex2BRO/Kursach.git
